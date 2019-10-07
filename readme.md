@@ -1,10 +1,11 @@
 # AI tutorial
 
-0. Install packages:
+1. Install packages:
 
 ```bash
 pipenv install --three
 ```
 
+## Topics
 
-1.[MDP - Q Learning](01mdp/doc.md)
+### [MDP - Q Learning](01mdp/doc.md)
